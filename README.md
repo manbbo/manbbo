@@ -47,12 +47,12 @@
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
+---
 
-  <img align="left" alt="Manbbo's Github Stats" src="https://github-readme-stats.manbbo.vercel.app/api?username=manbbo&show_icons=true&hide_border=true" />
+<summary>:zap: Github Stats</summary>
 
-</details>
+[![Manbbo's github stats](https://github-readme-stats.vercel.app/api?username=manbbo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: https://linktr.ee/manbbo
 [instagram]: https://instagram.com/elmanbbo
