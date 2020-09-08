@@ -11,9 +11,11 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://help.ubuntu.com/kubuntu/desktopguide/pt_BR/terminals.html)
+
 <br/>
 
 <br/>
+
 - 🤓 I’m currently learning [Kotlin](https://github.com/manbbo/santander-coders), but always learn everything I can!
 - 🌱 I love challenges, and innovative ideas! Check out my profile or my [Linktree][website] to see other projects
 - 🎮 Recently I'm focusing on two things: Learning Mobile Development and learning Video Games Programming
@@ -23,9 +25,6 @@
 
 <br />
 <br />
-
-[![Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=manbbo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ### Spotify Playing 🎧
@@ -47,7 +46,12 @@
 
 <summary>:zap: Github Stats</summary>
 
+
+[![Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=manbbo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Manbbo's github stats](https://github-readme-stats.vercel.app/api?username=manbbo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
