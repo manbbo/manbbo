@@ -19,9 +19,6 @@
 
 <br/>
 
-<summary>:zap: Github Stats</summary>
-
-[![Manbbo's github stats](https://github-readme-stats.vercel.app/api?username=manbbo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🤓 I’m currently learning [Kotlin](https://github.com/manbbo/santander-coders), but always learn everything I can!
 - 🌱 I love challenges, and innovative ideas! Check out my profile or my [Linktree][website] to see other projects
@@ -44,6 +41,11 @@
 <br />
 <br />
 
+---
+
+<summary>:zap: Github Stats</summary>
+
+[![Manbbo's github stats](https://github-readme-stats.vercel.app/api?username=manbbo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
