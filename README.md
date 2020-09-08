@@ -1,4 +1,8 @@
-### Hi there, I'm Andre, well known as [Piton][website]
+### Hi there, I'm Andre, also known as [Piton][website]
+
+<summary>:zap: Github Stats</summary>
+
+[![Manbbo's github stats](https://github-readme-stats.vercel.app/api?username=manbbo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🤓 I’m currently learning [Kotlin](https://github.com/manbbo/santander-coders), but always learn everything I can!
 - 🌱 I love challenges, and innovative ideas! Check out my profile or my [Linktree][website] to see other projects
@@ -19,6 +23,8 @@
 
 ### Languages and Tools I use:
 
+[![Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=manbbo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/download)
 [<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />](https://developer.android.com/studio)
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />](https://flutter.dev/)
@@ -37,22 +43,6 @@
 
 
 ---
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
-<summary>:zap: Github Stats</summary>
-
-[![Manbbo's github stats](https://github-readme-stats.vercel.app/api?username=manbbo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [website]: https://linktr.ee/manbbo
 [instagram]: https://instagram.com/elmanbbo
