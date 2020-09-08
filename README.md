@@ -19,6 +19,8 @@
 
 <br/>
 
+<br />
+<br />
 
 - 🤓 I’m currently learning [Kotlin](https://github.com/manbbo/santander-coders), but always learn everything I can!
 - 🌱 I love challenges, and innovative ideas! Check out my profile or my [Linktree][website] to see other projects
