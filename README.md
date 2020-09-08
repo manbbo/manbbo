@@ -1,22 +1,4 @@
 # Hi there, I'm Andre, also known as [Piton][website]
-
-### Languages and Tools I use:
-
-
-- 🤓 I’m currently learning [Kotlin](https://github.com/manbbo/santander-coders), but always learn everything I can!
-- 🌱 I love challenges, and innovative ideas! Check out my profile or my [Linktree][website] to see other projects
-- 🎮 Recently I'm focusing on two things: Learning Mobile Development and learning Video Games Programming
-- 🏢 One of my life goals are creating a video-games company. Also one of my goals are get every knowlegde in the world and travel through time, but I think founding a company is easier 🤣
-- 🥂 Also about me: I love to travel, go to parties, write, read, watch TV Shows and Movies, and speaking not only English but French as well - did I ever mention I LOVE videogames?
-
-
-<br/>
-
-<br />
-<br />
-
-[![Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=manbbo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/download)
 [<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />](https://developer.android.com/studio)
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />](https://flutter.dev/)
@@ -29,6 +11,22 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://help.ubuntu.com/kubuntu/desktopguide/pt_BR/terminals.html)
+<br/>
+
+<br/>
+- 🤓 I’m currently learning [Kotlin](https://github.com/manbbo/santander-coders), but always learn everything I can!
+- 🌱 I love challenges, and innovative ideas! Check out my profile or my [Linktree][website] to see other projects
+- 🎮 Recently I'm focusing on two things: Learning Mobile Development and learning Video Games Programming
+- 🏢 One of my life goals are creating a video-games company. Also one of my goals are get every knowlegde in the world and travel through time, but I think founding a company is easier 🤣
+- 🥂 Also about me: I love to travel, go to parties, write, read, watch TV Shows and Movies, and speaking not only English but French as well - did I ever mention I LOVE videogames?
+
+
+<br />
+<br />
+
+[![Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=manbbo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Manbbo's Spotify Playing" width="350" />](https://open.spotify.com/user/manbbo?si=b_9TUuX7RRasK54nx4r-sA)
