@@ -28,10 +28,11 @@
 - 🥂 Also about me: I love to travel, go to parties, write, read, watch TV Shows and Movies, and speaking not only English but French as well - did I ever mention I LOVE videogames?
 
 
-### Sponsor me!!! 
+### Sponsor me!!!
+> If you found my profile useful, if it helped you solve a problem or create another solution, or simply you liked it and you want to thank me, donate to me and keep me alive by donating! :smile:
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F8R2Q5GT93MJN) 
 [<img align="left" alt="BTC Button" width="100px" src="https://github.com/manbbo/manbbo/blob/master/btc_button.png" />](https://www.blockonomics.co/pay-url/0d920b260a8311eb)
-
 
 <br />
 <br />
