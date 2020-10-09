@@ -28,7 +28,9 @@
 - 🥂 Also about me: I love to travel, go to parties, write, read, watch TV Shows and Movies, and speaking not only English but French as well - did I ever mention I LOVE videogames?
 
 
-<br />
+### Sponsor me!!! 
+
+[<img align="left" alt="BTC Button" width="100px" src="https://github.com/manbbo/manbbo/blob/master/btc_button.png" />](https://www.blockonomics.co/pay-url/0d920b260a8311eb)
 <br />
 
 
