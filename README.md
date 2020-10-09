@@ -29,7 +29,7 @@
 
 
 ### Sponsor me!!!
-> If you found my profile useful, if it helped you solve a problem or create another solution, or simply you liked it and you want to thank me, donate to me and keep me alive by donating! :smile:
+> If you found my profile useful, if it helped you solve a problem or create another solution, or simply you liked it and you want to thank me, get your donations ready and keep me alive - seriously, do not let me die from hunger, hahaha! :smile:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F8R2Q5GT93MJN) 
 [<img align="left" alt="BTC Button" width="100px" src="https://github.com/manbbo/manbbo/blob/master/btc_button.png" />](https://www.blockonomics.co/pay-url/0d920b260a8311eb)
