@@ -31,7 +31,7 @@
 ### Sponsor me!!!
 > If you found my profile useful, if it helped you solve a problem or create another solution, or simply you liked it and you want to thank me, get your donations ready and keep me alive - seriously, do not let me die from hunger, hahaha! :smile:
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F8R2Q5GT93MJN) 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=manbbo%40outlook.com&currency_code=BRL) 
 
 <br />
 
