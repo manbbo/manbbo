@@ -29,7 +29,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Manbbo's Spotify Playing" width="350" />](https://open.spotify.com/user/manbbo?si=b_9TUuX7RRasK54nx4r-sA)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ElPitohn's Spotify Playing" width="350" />](https://open.spotify.com/user/elpitohn?si=b_9TUuX7RRasK54nx4r-sA)
 
 ### Connect with me:
 
